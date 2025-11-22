@@ -1,2 +1,2 @@
 # learn about
-so learn 
+so learn  how to
